@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+dist/
+build/
+*.spec
+*.exe
+*.zip
+*.rar
+.DS_Store
+Thumbs.db
