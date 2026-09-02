@@ -6,6 +6,17 @@
 - WASD
 - F9 / F11 – fullscreen
 
+## Gamepad support (Xbox)
+
+The game automatically detects an Xbox controller.
+
+| Button | Action |
+|--------|--------|
+| Left stick | Move player |
+| A | Confirm / Start |
+| B | Back / Exit to menu |
+| D-pad Up/Down | Navigate menu buttons |
+
 ## Install
 1. Install Python 3.12+
 2. Install Pygame: `pip install pygame`
